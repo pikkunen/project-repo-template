@@ -1,144 +1,71 @@
 # Gruppkontrakt
+OSPP (1DT096) 2018 - grupp delta squad
 
-OSPP (1DT096) 2018 - Grupp alpha
+## Syfte 
 
-**TODO:** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
-delta, epsilon, zeta, eta, theta or iota).
+Vi är många personer med olika mål för våra egna prestationer, därför är det viktigt att kommunicera och planera vårt arbete.
+Vi behöver få en gemensam bild av vad våra mål är och hur vi ska nå dit.
+Något att falla tillbaka på om problem uppstår
 
-**INFO:** Detta dokument är skrivet i
-formatet [Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
+## Konvention på GitHub
 
-**INFO:** Det går att redigera, förhandsvisa och spara (commit)
-[sidan](./gruppkontrakt.md) på GitHub direkt i din webbläsare.
+På förekommen anledning så kommer vi ha en väldigt tydlig struktur i hur vi kommer arbeta i git. Detta för att säkerställa att ingen icke-fungerande kod laddas upp i vår master-branch.
+Vi kommer jobba i fem steg:
+1. Beskriv - när du jobbar så ska du skriva vad du jobbar med och ändrar
+2. Jobba - Gör det som ska göras
+3. Skriv tester - för att säkerställa att det du skrivit fungerar
+4. Review - låt ett par fräscha ögon titta på det du skrivit, för att vara säker på att koden gör det vi vill
+5. Merge to master - först när det är verifierat att koden fungerar får den mergeas till master
 
-## Syfte
+Istället för att använda trello etc så ska vi använda issues som planeringsverktyg
 
-Det huvudsakliga syftet med att upprätta ett gruppkontrakt är att alla
-i gruppen ska vara överens om mål och arbetssätt för det fortsatta
-arbetet. Utarbetandet av ett gruppkontrakt leder till diskussion och
-reflektion kring frågor som är viktiga för gruppens arbete och
-trivsel. Vid utformandet av gruppkontraktet är det viktigt att alla i
-gruppen deltar aktivt och att hänsyn tas till alla gruppmedlemmars
-synpunkter och önskemål.
+## Deadlines
+Det är viktigt att vi respekterar satta deadlines för att arbetet ska flyta på så smärtfritt och smidigt som möjligt. Meddela så fort du inser att du kommer missa någon. Du kan till exempel skriva “plz help me” på slacken. Alla i gruppen förstår att livet händer ibland, men meddela gruppen om det så snart som möjligt.
 
-Ett gruppkontrakt ska vara underskrivet av samtliga
-projektmedlemmar. Följande områden kan vara del av vad man kommer
-överens om i gruppkontraktet:
+Fasta deadlines satta i kursen:
 
-- Målsättning och förväntningar på gruppdeltagarna.
-- Arbetsformer och arbetsfördelning.
-- Normer i projektgruppen – överenskommelse om goda gruppegenskaper.
-- Brott mot reglerna i gruppkontraktet.
-- Allmänna förutsättningar.
-
-Denna mall för gruppkontrakt är baserat på:
-
-- http://www.cemus.uu.se/dokument/hub2010/Gruppkontrakt.pdf
-
-**TODO:** Gruppen skall tillsammans utgå från denna mall (ändra, ta bort eller
- lägga till text och rubriker) för att komma fram till ett gruppkontrakt som
- alla i gruppen är nöjda med.
-
-## Rutiner
-
-Exempel på innehåll:
-
-- Skall gruppen i huvudsak sitta och arbeta tillsammans eller endast
-  träffas för kortare möten?
-- Hur ofta ska gruppen träffas?
-- Hur långa ska mötena vara?
-- När på dagen ska mötena läggas?
-- Vilka godtagbara skäl finns för frånvaro på möten?
+Vi förväntar oss panikdeadlines, men om vi håller våra egna deadlines så är risken mindre att panikdeadlinesen kaosar för oss. 
 
 
-## Kommunikationen i gruppen
+## Kommunikationskanaler
+Slack https://delta-squad-workspace.slack.com/ där mesta av vår kommunikation kommer ske. 
+Git-repo för projektet
+Google docs mapp för övriga filer
+￼
+### Ghosting
+Om någon i gruppen försvinner ska vi försöka kontakta denna genom andra kanaler såsom Facebook, mail, afk eller brevduva. Om svar uteblir ska vi kontakta Karl relativt snart.
 
-Exempel på innehåll:
+## Arbetstid
+Alla ska kolla våra kommunikationskanaler varje dag, på vardagar
+Vi förväntas jobba ca 27 h/vecka (för studietakten kräver det 67 % av 40h/vecka)
+Inget tvång/häxjakt, bara en generell bild av vad som förväntas
+Vi håller en tidrapport för att överblicka vårt egna och andras arbete
+https://docs.google.com/spreadsheets/d/15JwFxjH_Jeh62RYRb1mbnjBetPHL0KX0neUBOnFgQaY/edit?usp=sharing
+Vi ska åtminstone varannan vardag kommunicera vad vi håller på med tex via slack eller issues. (Kort kommentar, ingen utförlig rapport)
+Det är inget tvång att vara kontaktbar utanför kontorstid
 
-- Hur ska gruppen kommunicera mellan möten?
-- Hur ska gruppen agera om någon inte kommer på ett möte?
-- Hur ska samordning och rapportering ske inom projektgruppen?
-
-## Frånvaro
-
-Exempel på innehåll:
-
-- Hur och när skall frånvaro meddelas?
-- Hur skall man göra om någon varit frånvarande?
-- Skall frånvaro kompenseras genom annan arbetsinsats eller gäller det
-  bara viss typ av frånvaro?
-
-## Roller
-
-Exempel på innehåll:
-
-- Ska varje person i gruppen ha en formell roll?
-- Ska ni växla formella roller vid varje möte?
-- Vilka roller behövs:
-  - Projektledare?
-  - Sekreterare?
-  - Dokumentansvarig?
-
-## Beslutsformer
-
-Exempel på innehåll:
-- Hur ska gruppen komma överens om vad som ska göras?
-- Ska majoritetsbeslut gälla eller ska gruppen genom diskussion
-  försöka få alla att vara överens om beslutet?
-- Hur ska ni gör ifall ni är oeniga?
-
-## Arbetsinsats
-
-För att undvika en del missförstånd och irritation kan det vara bra
-att redan från början göra klart för varandra vilka olika typer av
-arbetsinsatser som kan förekomma.  Exempel på innehåll:
-
-- Exempel på olika former av arbetsinsatser.
-- Vilka krav kan man ställa på varandra?
-
-## Ansvar
-
-Exempel på innehåll:
-
-- Hur ska arbetet fördelas i gruppen?
-- Hur ska gruppen hantera om någon inte gör sin del av arbetet?
-- Hur mycket arbete ska göras mellan möten?
-
-## Konflikter
-
-Hur skall man gå tillväga om det uppstår konflikter?
-
-## Brott mot bestämmelserna i gruppkontraktet
-
-Var och en berättar om hur man vill bli påmind om de överenskomna
-bestämmelserna. Ett sätt är att var och en inför de andra i
-projektgruppen beskriver hur man vill bli påmind om att man har brutit
-mot någon punk i gruppkontraktet. Viktigt för att underlätta för
-projektgruppen att under det kommande arbetet såväl ge som att ta
-kritik.
-
-## Utskrift och underskrifter
-
-Kontraktet skall skrivas ut på papper, skrivas under
-(namnförtydligande och signatur av samtliga gruppmedlemmar) och lämnas
-in till ansvarig lärare på kursen. Därefter skall kontraktet hållas
-uppdaterat som en del av gruppens repository på GitHub.
-
-Detta kontrakt har den __________________________  upprättats av:
+## Möten
+Mötestider är uttalade prick, inte ak
+Vi kommer behöva mer frekventa möten nu under uppstartsfasen
+Undvik kort varsel, bestämt tid och plats 2-3 dagar i förväg
+Viktiga saker som bestämts på mötet skrivs så snabbt som möjligt in på slack så att eventuella frånvarande kan hålla sig uppdaterade
+De som dyker upp på mötet har bestämmanderätt, förutsatt att: 
+närvaron inte är extremt låg
+alla getts möjlighet att delta genom att bli inbjudna i god tid.
+På möten bör vi hålla enklare protokoll och anteckningar som läggs upp på slack
 
 
-**TODO: ** I tabellen nedan skall gruppen medlemmar listas sorterade på förnman.
+## Övrigt arbete
+Det finns en spridning i gruppen om hur vi vill jobba, ensam eller i grupp. Vi kommer inte ha några obligatoriska gemensamma “pluggstunder”, men vi uppmanar att informera om var vi sitter så att vi kan plugga tillsammans.
 
-Förnamn | Efternamn | . . . . . . . . . . . Underskrift . . . . . . . . . . .
---------|-----------|------------
-Anders  | Andersson |
-Britta  | Björk     |
-Cecila  | Carlsson  |
-Daniel  | Dahlqvist |
-Erik    | Eklund    |
-Fanny   | Forsberg  |
 
-## Färdigställ
 
-- Tag bort alla stycken markerade med **TODO** och **INFO**.
-- Tag bort hela detta avsnitt, dvs tag bort avsnittet **Färdigställ**.
+## Godkännanden
+
+Elli Virtanen
+Joy van den Eijkhof
+Gabriel Appelkvist
+Göran Ahlgren
+Manfred Waks Larsson
+Olof Bergenholtz
+Sanna Kurdal
